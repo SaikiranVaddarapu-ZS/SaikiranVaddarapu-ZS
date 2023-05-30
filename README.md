@@ -1,6 +1,6 @@
 ### Hi there 👋 ,
 
-I am an enthusiastic golang developer. Also had a good experience in front end frameworks like React. 
+I am an enthusiastic golang developer. Also had a good experience in front end libraries like React. 
 
 Wanna discuss something about tech, just ping me in google chat. Would love to talk about
 
