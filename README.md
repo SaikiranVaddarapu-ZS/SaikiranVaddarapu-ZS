@@ -2,6 +2,8 @@
 
 I am an enthusiastic golang developer. Also had a good experience in front end frameworks like React. 
 
+Wanna discuss something about tech, just ping me in google chat. Would love to talk about
+
 <!--
 **SaikiranVaddarapu-ZS/SaikiranVaddarapu-ZS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
